@@ -1,0 +1,39 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Node / Frontend
+node_modules/
+dist/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs
+.vscode/
+.idea/
+.settings/
+.project
+.classpath
+.factorypath
+*.swp
+*.swo
+.DS_Store
+
+# Build artifacts
+bin/
+obj/
+out/
+
+# Log files
+*.log
